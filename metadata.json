@@ -1,0 +1,6 @@
+{
+  "name": "SmartCare Diagnostics & Healthcare",
+  "description": "AI-Enabled Diagnostic, Doctor Appointment, Home Healthcare & Online Report Management System with AI Prescription OCR.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
